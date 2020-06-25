@@ -2,7 +2,7 @@ package studentlist;
 
 /**
  * This class represents students in our application
- *
+ * Name: Elva
  * @author Paul Bonenfant 
  */
 public class Student {
