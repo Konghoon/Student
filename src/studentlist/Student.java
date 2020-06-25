@@ -3,7 +3,9 @@ package studentlist;
 /**
  * This class represents students in our application
  *
- * @author Paul Bonenfant 
+ * @author Paul Bonenfant
+ * Modified: Kong hoon Chung
+ * Date: June 24, 2020
  */
 public class Student {
     
